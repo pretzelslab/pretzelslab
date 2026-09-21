@@ -1,10 +1,38 @@
 # Hi, I'm Preethi 👋
 
-I build practical AI systems at the intersection of AI safety, governance, sustainable AI and enterprise transformation.
+I work across product, program, GTM systems, enterprise transformation and responsible AI.
 
-My work usually starts with a real problem, moves into a working implementation or evaluation, and produces evidence that can be inspected, tested or challenged.
+My focus is usually the space between strategy and execution: taking an ambiguous business problem, turning it into a product, system or operating model, and bringing the people, technology, governance and measurement together to make it work.
 
-## Selected Work
+## What I Work On
+
+### Product & Systems
+
+Product strategy, enterprise platforms, CRM, HCM, workflow automation and AI enabled business systems.
+
+I am particularly interested in products where technology has to fit into real operating processes rather than exist as a standalone feature.
+
+### Program & Transformation
+
+Cross functional programs involving product, engineering, operations, commercial teams, services, legal, finance and customer facing organizations.
+
+I work on turning large initiatives into clear workstreams, dependencies, decisions, readiness measures and measurable outcomes.
+
+### GTM & Operational Readiness
+
+Launch planning, commercial readiness, enablement, adoption, operating processes and the systems behind them.
+
+I am interested in how product, CRM, automation, analytics and AI can improve the path from product strategy to customer adoption.
+
+### AI Governance & Safety
+
+Practical controls for AI systems including evaluation, runtime safety, human review, governance evidence and agent containment.
+
+### Sustainable AI
+
+Exploring how model selection, routing and infrastructure decisions can reduce inference impact while preserving useful system behaviour.
+
+## Selected Technical Work
 
 ### 🌱 Carbon Aware Inference Routing
 
@@ -12,38 +40,29 @@ Exploring how LLM requests can be routed using task complexity, model capability
 
 CAIR combines model routing, carbon signals and audit evidence to examine whether inference can become more efficient without treating every request the same way.
 
-**Repository:** `sa1-carbon-inference-router`  
-**Research:** CAIR, Carbon Aware Inference Routing for Large Language Models
+**Repository:** `sa1-carbon-inference-router`
 
 ### 🛡️ Agent Hijacking
 
-A practical AI safety project exploring how indirect instructions can redirect agent behaviour.
-
-The project examines attack paths, classification, detection and containment rather than treating prompt injection as only a model level problem.
+A practical AI safety project exploring how indirect instructions can redirect agent behaviour and how detection, classification and containment controls can respond.
 
 **Repository:** `ac4-agent-hijacking`
 
 ### ⚖️ AI Compliance Agent
 
-Exploring how recurring AI evaluations can become governance workflows.
-
-The project connects evaluation evidence with monitoring, escalation, human review and auditable governance actions.
+Exploring how recurring AI evaluations can become operational governance workflows involving monitoring, escalation, human review and auditable evidence.
 
 **Repository:** `ai-compliance-agent`
 
 ### 🔬 AI Bias Evaluation Framework
 
-An evaluation framework for examining whether AI safety responses remain consistent across demographic and contextual variations.
-
-The work focuses on measurable behavioural differences rather than broad fairness claims.
+An evaluation framework examining whether AI safety responses remain consistent across demographic and contextual variations.
 
 **Repository:** `ai-bias-evaluation-framework`
 
 ### 📊 NCRB Research Dataset
 
-A verified longitudinal dataset covering rape incidence, justice outcomes, victim profiles and state trends in India from NCRB source material.
-
-The repository includes source provenance, verification records, analysis code and reproducible datasets supporting Women's Safety AI research.
+A verified longitudinal dataset supporting Women's Safety AI research, including source provenance, verification records, analysis code and reproducible datasets.
 
 **Repository:** `india-rape-statistics-ncrb`
 
@@ -61,24 +80,26 @@ Research into carbon aware model routing, inference efficiency and auditable sus
 
 Research into demographic invariance, safety response quality and governance evidence for AI systems.
 
-## What I Am Exploring
+## How I Work
 
-AI governance and assurance
+I enjoy connecting areas that are often treated separately:
 
-Agent safety and runtime controls
+Business problem → Product thinking → Systems design → Program execution → GTM readiness → Adoption → Measurement
 
-Sustainable AI systems
+And increasingly:
 
-AI evaluation and benchmarking
+AI capability → Evaluation → Governance → Runtime controls → Evidence
 
-Enterprise AI transformation
-
-Responsible AI implementation
+That intersection is where most of my projects live.
 
 ## Open Source
 
-I am using GitHub increasingly as a working environment rather than only a place to publish finished projects.
+I am using GitHub increasingly as a working environment rather than only a publishing destination.
 
-I am currently strengthening my practice around pull requests, code review, CI workflows, issue driven development and collaborative open source contribution.
+Current areas of practice include pull requests, code review, CI workflows, issue driven development and collaborative open source contribution.
 
-Interested in contributing to projects involving AI governance, safety, evaluation and sustainable AI.
+Interested in collaborating on practical work involving enterprise AI, product systems, AI governance, safety, evaluation and sustainable AI.
+
+## Explore More
+
+🌐 Portfolio: https://preetibuilds-33d6f6da.vercel.app/
