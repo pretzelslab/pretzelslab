@@ -1,30 +1,84 @@
 # Hi, I'm Preethi 👋
 
-I build practical systems that help organizations adopt AI responsibly.
-My work spans enterprise AI, product development, governance, safety, and human centered AI adoption.
+I build practical AI systems at the intersection of AI safety, governance, sustainable AI and enterprise transformation.
 
-## Currently Building
+My work usually starts with a real problem, moves into a working implementation or evaluation, and produces evidence that can be inspected, tested or challenged.
 
-* Enterprise AI Transformation OS
-* Human Capability, Institutional Adaptation, and Societal Evolution in the Age of AI
-* Enterprise AI safety and governance patterns
-* Open source tools for enterprise AI adoption
+## Selected Work
 
-## Featured Projects
+### 🌱 Carbon Aware Inference Routing
 
-Coming soon.
-I'm documenting and open sourcing the projects I'm actively building. This section will grow as repositories are published.
+Exploring how LLM requests can be routed using task complexity, model capability, latency requirements and carbon intensity.
 
-## Why this GitHub?
+CAIR combines model routing, carbon signals and audit evidence to examine whether inference can become more efficient without treating every request the same way.
 
-I'm using this space to document ideas as they evolve into practical systems, open source tools, and reusable frameworks for enterprise AI. Wherever possible, I share not only the finished outcome, but also the thinking, tradeoffs, and lessons learned along the way.
+**Repository:** `sa1-carbon-inference-router`  
+**Research:** CAIR, Carbon Aware Inference Routing for Large Language Models
 
-## Recent Writing
+### 🛡️ Agent Hijacking
 
-I regularly write about enterprise AI, governance, runtime safety, product development, and the evolving relationship between humans and AI.
-More articles and working papers will be linked here as they are published.
+A practical AI safety project exploring how indirect instructions can redirect agent behaviour.
 
-## Connect
+The project examines attack paths, classification, detection and containment rather than treating prompt injection as only a model level problem.
 
-* LinkedIn
-* Portfolio
+**Repository:** `ac4-agent-hijacking`
+
+### ⚖️ AI Compliance Agent
+
+Exploring how recurring AI evaluations can become governance workflows.
+
+The project connects evaluation evidence with monitoring, escalation, human review and auditable governance actions.
+
+**Repository:** `ai-compliance-agent`
+
+### 🔬 AI Bias Evaluation Framework
+
+An evaluation framework for examining whether AI safety responses remain consistent across demographic and contextual variations.
+
+The work focuses on measurable behavioural differences rather than broad fairness claims.
+
+**Repository:** `ai-bias-evaluation-framework`
+
+### 📊 NCRB Research Dataset
+
+A verified longitudinal dataset covering rape incidence, justice outcomes, victim profiles and state trends in India from NCRB source material.
+
+The repository includes source provenance, verification records, analysis code and reproducible datasets supporting Women's Safety AI research.
+
+**Repository:** `india-rape-statistics-ncrb`
+
+## Research
+
+### CAIR
+
+**Carbon Aware Inference Routing for Large Language Models**
+
+Research into carbon aware model routing, inference efficiency and auditable sustainability signals.
+
+### ZIDR
+
+**Women's Safety AI Evaluation**
+
+Research into demographic invariance, safety response quality and governance evidence for AI systems.
+
+## What I Am Exploring
+
+AI governance and assurance
+
+Agent safety and runtime controls
+
+Sustainable AI systems
+
+AI evaluation and benchmarking
+
+Enterprise AI transformation
+
+Responsible AI implementation
+
+## Open Source
+
+I am using GitHub increasingly as a working environment rather than only a place to publish finished projects.
+
+I am currently strengthening my practice around pull requests, code review, CI workflows, issue driven development and collaborative open source contribution.
+
+Interested in contributing to projects involving AI governance, safety, evaluation and sustainable AI.
