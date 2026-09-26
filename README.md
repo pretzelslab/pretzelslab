@@ -40,7 +40,7 @@ Exploring how LLM requests can be routed using task complexity, model capability
 
 CAIR combines model routing, carbon signals and audit evidence to examine whether inference can become more efficient without treating every request the same way.
 
-**Research status:** Accepted at IEEE GAISS 2026 and the EMNLP 2026 ORACLE Workshop.
+**Research status:** `Accepted at IEEE GAISS 2026 and the EMNLP 2026 ORACLE Workshop.`
 
 **Repository:** `sa1-carbon-inference-router`
 
@@ -76,7 +76,7 @@ A verified longitudinal dataset supporting Women's Safety AI research, including
 
 Research into carbon aware model routing, inference efficiency and auditable sustainability signals.
 
-**Accepted at:** IEEE GAISS 2026 and the EMNLP 2026 ORACLE Workshop.
+**Accepted at:** `IEEE GAISS 2026 and the EMNLP 2026 ORACLE Workshop.`
 
 ### ZIDR
 
